@@ -1,10 +1,10 @@
 # RandomGeneratorTareasYEjercicios
 
-Este es un programa en Java que distribuye aleatoriamente las tareas a realizar entre las personas de un grupo, selecciona de forma aleatoria a una persona para compartir pantalla durante la realización de las tareas, y elige aleatoriamente el ejercicio a realizar según las guías existentes.
+Este es un programa en Java que distribuye aleatoriamente las tareas a realizar entre las personas de un grupo, selecciona de forma aleatoria a una persona para compartir pantalla durante la realización de las tareas, y elige aleatoriamente el ejercicio a realizar según las guías ingresadas por teclado.
 
 ## Desarrollo
 
-Este programa fue desarrollado junto a Kisha Nezbeth y Aylén Glassman en el curso de Globant University, aplicando conocimientos adquiridos hasta ese momento.
+Este programa fue desarrollado junto a Kisha Nezbeth y Ailén Glassmam en el curso de Globant University, aplicando conocimientos adquiridos hasta ese momento.
 
 El proyecto se encuentra disponible en [GitHub](https://github.com/frangimz/RandomGeneratorTareasYEjercicios).
 
